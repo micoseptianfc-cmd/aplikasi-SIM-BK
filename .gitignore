@@ -3,3 +3,8 @@ node_modules/
 *.exe
 *.zip
 dist/
+
+node_modules/
+*.exe
+*.zip
+dist/
